@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+
+## mac OS finder garbage
+.DS_Store
+
+# VSCode stuff
+.vscode/
